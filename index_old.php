@@ -1,3 +1,3 @@
 <?php
-echo "SIS Project Working!";
+echo "Student Information System Project Working!";
 ?>
